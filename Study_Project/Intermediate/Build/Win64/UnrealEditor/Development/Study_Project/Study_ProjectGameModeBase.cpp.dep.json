@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\dpsks\\desktop\\github\\unreal5_study\\study_project\\source\\study_project\\study_projectgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dpsks\\desktop\\github\\unreal5_study\\study_project\\intermediate\\build\\win64\\study_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\dpsks\\desktop\\github\\unreal5_study\\study_project\\intermediate\\build\\win64\\unrealeditor\\development\\study_project\\definitions.study_project.h",
+            "c:\\users\\dpsks\\desktop\\github\\unreal5_study\\study_project\\source\\study_project\\study_projectgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\dpsks\\desktop\\github\\unreal5_study\\study_project\\intermediate\\build\\win64\\unrealeditor\\inc\\study_project\\uht\\study_projectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

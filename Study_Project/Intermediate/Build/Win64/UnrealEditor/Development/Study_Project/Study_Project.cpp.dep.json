@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\dpsks\\desktop\\github\\unreal5_study\\study_project\\source\\study_project\\study_project.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dpsks\\desktop\\github\\unreal5_study\\study_project\\intermediate\\build\\win64\\study_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\dpsks\\desktop\\github\\unreal5_study\\study_project\\intermediate\\build\\win64\\unrealeditor\\development\\study_project\\definitions.study_project.h",
+            "c:\\users\\dpsks\\desktop\\github\\unreal5_study\\study_project\\source\\study_project\\study_project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
